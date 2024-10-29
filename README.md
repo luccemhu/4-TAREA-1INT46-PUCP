@@ -1,6 +1,8 @@
-# 4-TAREA-1INT46-PUCP-
+# [4-TAREA-1INT46-PUCP](https://luccemhu.github.io/4-TAREA-1INT46-PUCP/)
 
 # Diccionario de Datos de COVID-19 en Perú
+
+Enlace a GitHub Pages: https://luccemhu.github.io/4-TAREA-1INT46-PUCP/
 
 Este repositorio contiene información detallada sobre los registros de fallecidos y casos positivos de COVID-19 en Perú, extraídos de la plataforma de datos abiertos del Ministerio de Salud (MINSA).
 
